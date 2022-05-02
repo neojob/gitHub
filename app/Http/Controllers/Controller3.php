@@ -11,8 +11,8 @@ class Controller3 extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    public function bbbb()
+    public function aaa()
     {
-        
+
     }
 }

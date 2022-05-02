@@ -11,7 +11,8 @@ class Controller33 extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    public function a22222()
+
+    public function a2()
     {
 
     }
