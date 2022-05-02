@@ -10,4 +10,9 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller3 extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+    public function bbbb()
+    {
+        
+    }
 }
